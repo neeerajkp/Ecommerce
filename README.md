@@ -15,9 +15,15 @@ At Server Side:
 
 Note - If any error happens while starting development server then type below command and try running Server again:        
         Set-ExecutionPolicy Bypass -Scope Process                
-        (This will depend upon system)
+        (This will depend upon system)              
 
+Admin login details are below:                                     
+Username : admin@gmail.com                              
+Password : admin                        
 
+User login details are below:                                      
+Username : user@gmail.com                                     
+Password : user
 
 
 
