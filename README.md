@@ -5,8 +5,9 @@ To run the project, follow these steps:
 
 At Client side:   
 1- Open the terminal in Visual Studio Code (VSCode).   
-2- Navigate to the Client directory: cd Client    
-3- Start the development server: npm run dev
+2- Navigate to the Client directory: cd Client              
+3- Install necessary dependencies: npm install                   
+4- Start the development server: npm run dev
 
 At Server Side:   
 1- Open another new terminal in Visual Studio Code (VSCode).   
